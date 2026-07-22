@@ -148,8 +148,8 @@ The files are intended to be used together:
 2. **`systematic_review_complete_sample.csv`** documents the complete set of studies included in the review.
 3. **`coding_scheme.csv`** specifies the coding framework applied to all included studies.
 4. **`psychological_outcome_categories.csv`** provides the conceptual classification of psychological outcomes into higher-level categories.
-5. **`coding_psychological_outcome.csv`** contains the detailed coding framework for individual psychological outcome constructs.
-6. **`coding_behavioral_outcome.csv`** contains the detailed coding framework for behavioral outcome constructs.
+5. **`coding_psychological_outcome.csv`** contains the detailed coding for individual psychological outcome constructs.
+6. **`coding_behavioral_outcome.csv`** contains the detailed coding for behavioral outcome constructs.
 7. **`outlets_journals.csv`** and **`outlets_conferences.csv`** provide journal and conference ranking information
 
 Together, these materials provide transparent documentation of the selected studies and coding procedures and facilitate transparency and reuse of the systematic literature review.
