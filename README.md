@@ -40,6 +40,11 @@ Contains the coding for psychological outcomes identified in the reviewed litera
 
 ---
 
+### [`psychological_outcome_categories.csv`](./psychological_outcome_categories.csv)
+
+Psychological outcomes were grouped according to their dominant psychological function. The file groups individual psychological outcome constructs into seven broader conceptual categories (e.g., cognitive and belief-based responses, affective responses, normative and moral evaluations, and personal motivational processes) and provides a definition for each category.
+
+---
 ### [`coding_behavioral_outcome.csv`](./coding_behavioral_outcome.csv)
 
 Contains the coding for behavioral outcomes identified in the reviewed literature. The effect-direction codes indicate how an incentive or incentivizing strategy is associated with the respective behavioral outcome.
@@ -117,28 +122,34 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
 ## Repository Structure
 
 ```text
-systematic_review_complete_sample.csv
-                  │
-                  ▼
-          coding_scheme.csv
-                  │
-        ┌─────────┴─────────┐
-        ▼                   ▼
-coding_psychological_   coding_behavioral_
-      outcome.csv             outcome.csv
-
-Additional publication information:
-├── outlets_journals.csv
-└── outlets_conferences.csv
+                    search_strategy.png
+                             │
+                             ▼
+             systematic_review_complete_sample.csv
+                             │
+                             ▼
+                    coding_scheme.csv
+                             │
+              ┌──────────────┴──────────────┐
+              ▼                             ▼
+  psychological_outcome_            coding_behavioral_
+      categories.csv                    outcome.csv
+              │
+              ▼
+    coding_psychological_
+         outcome.csv
 ```
 
 ## Workflow
 
 The files are intended to be used together:
 
-1. The complete study sample is provided in [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv).
-2. The coding framework applied to all included studies is documented in [`coding_scheme.csv`](./coding_scheme.csv).
-3. Detailed coding definitions for psychological and behavioral outcomes are provided in [`coding_psychological_outcome.csv`](./coding_psychological_outcome.csv) and [`coding_behavioral_outcome.csv`](./coding_behavioral_outcome.csv), respectively.
-4. Information on the publication venues represented in the final sample is available in [`outlets_journals.csv`](./outlets_journals.csv) and [`outlets_conferences.csv`](./outlets_conferences.csv).
+1. **`search_strategy.png`** illustrates the systematic literature search and study selection process that resulted in the final study sample.
+2. **`systematic_review_complete_sample.csv`** documents the complete set of studies included in the review.
+3. **`coding_scheme.csv`** specifies the coding framework applied to all included studies.
+4. **`psychological_outcome_categories.csv`** provides the conceptual classification of psychological outcomes into higher-level categories.
+5. **`coding_psychological_outcome.csv`** contains the detailed coding framework for individual psychological outcome constructs.
+6. **`coding_behavioral_outcome.csv`** contains the detailed coding framework for behavioral outcome constructs.
+7. **`outlets_journals.csv`** and **`outlets_conferences.csv`** provide journal and conference ranking information
 
 Together, these materials provide transparent documentation of the selected studies and coding procedures and facilitate transparency and reuse of the systematic literature review.
