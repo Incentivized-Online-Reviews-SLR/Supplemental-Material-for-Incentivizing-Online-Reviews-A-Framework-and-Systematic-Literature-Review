@@ -1,0 +1,64 @@
+﻿Outcome category;Outcome construct;Operational Definition
+Psychological Outcome;Review credibility/Perceived deceptiveness;Perceived believability or deceptiveness of a review or reviewer. Study examines whether incentivized reviews are perceived as credible, biased, misleading or deceptive.
+Psychological Outcome;Moral judgment;Evaluation of whether incentivized reviewing or related behavior is morally right, wrong, acceptable, or questionable.
+Psychological Outcome;Norms conflict;Perceived conflict with social, market, or ethical norms.
+Psychological Outcome;Normative commitment;Capture a perceived obligation or moral responsibility to contribute reviews because reviewing is viewed as the right thing to do, reflecting internalized norms about supporting the community and helping others.
+Psychological Outcome;Legal judgment;Evaluation of whether incentivized reviewing is legally acceptable, problematic, or unlawful.
+Psychological Outcome;Perceived inequity;Perceived imbalance between inputs and outcomes in the incentive exchange, such as feeling under- or over-rewarded relative to effort.
+Psychological Outcome;Perceived unfairness;Perception that the incentive or review process is unfair.
+Psychological Outcome;Skepticism;Doubt or suspicion toward the intention of the reward-offering company.
+Psychological Outcome;Source derogation;Negative evaluation or discounting of the review source, reviewer, firm, or platform because the review is incentivized or disclosed as sponsored.
+Psychological Outcome;Counter-arguing;Cognitive resistance against the review or review content, reflected in generating counterarguments or challenging the review’s claims.
+Psychological Outcome;Influencing the company;Perceived ability or motivation to affect firm behavior, service improvement, or company decisions through writing a review.
+Psychological Outcome;Perceived diagnosticity;Perceived usefulness of the review for evaluating product/service quality or making a decision.
+Psychological Outcome;Perceptual and cognitive processing;Cognitive processing of incentivized review information, including attention, elaboration, perception, or neurological/cognitive responses.
+Psychological Outcome;Uncertainty Reduction;Reduction of uncertainty about a product, service, seller, platform, or purchase decision through reviews or review information.
+Psychological Outcome;Calculative (continuance) commitment;Continued attachment to a platform or reviewing activity based on perceived costs, benefits, rewards, or economic calculation.
+Psychological Outcome;Perceived interest relevance;Perceived interest relevance between the reviewer and the reward-offering business.
+Psychological Outcome;Reciprocity/ Moral obligation;Feeling obliged to reciprocate a received benefit, reward, service, or gift by writing a (positive) review.
+Psychological Outcome;Altruistic sentiment (e.g., helping consumers or company, altruistic motivation, pure altruism, reciprocal altruism, and competitive altruism);Motivation to help others, the company, consumers, restaurants, or the community through reviewing or gaining status amongst other consumers on the review platforms, including pure, reciprocal, or competitive altruism.
+Psychological Outcome;Status recognition;Desire for status, reputation, social recognition, visibility, ranking, or prestige from reviewing.
+Psychological Outcome;Social bond;Perceived social connection or relational tie with a platform, company, or community.
+Psychological Outcome;Social welfare;Concern for broader collective benefits, community welfare, or social good resulting from reviewing.
+Psychological Outcome;Relatedness;Feeling socially connected, included, or belonging to a community or platform context.
+Psychological Outcome;Perceived Pressure;Feeling pressured, forced, obligated, or constrained to write a review, write within a timeframe, or meet review expectations.
+Psychological Outcome;Trust, Trustworthiness, Trusting Beliefs (Benevolence, Competence, and Integrity), Trusting attitude;Trust in (incentive-driven) reviews, reviewers, or review systems, including beliefs about benevolence, competence, or integrity.
+Psychological Outcome;Enjoyment;Pleasure, fun, or positive experience associated with writing reviews.
+Psychological Outcome;Guilt;Feeling guilty in relation to receiving incentives, writing or not writing a review, or reviewing in a certain way.
+Psychological Outcome;Warmth;Positive affective perception of kindness, goodwill, friendliness, or warmth toward the reviewer, firm, or platform.
+Psychological Outcome;Gratitude;Feeling thankful or appreciative toward the reward-offering party.
+Psychological Outcome;Blame;Attribution of responsibility or fault to a reviewer, firm, platform, or incentive provider.
+Psychological Outcome;Self-disgust;Negative self-directed emotion involving disgust or discomfort about one’s own reviewing behavior.
+Psychological Outcome;Affective (emotional) commitment;Emotional attachment to a platform, community, company, or reviewing activity.
+Psychological Outcome;Consumer satisfaction/dissatisfaction;Satisfaction or dissatisfaction with the product, service, company, platform, or review experience.
+Psychological Outcome;Motivation of self-improvement;Motivation to improve oneself, one’s knowledge, skills, reviewing ability, or contribution quality through reviewing.
+Psychological Outcome;Autonomy;Feeling of choice or freedom in deciding whether and how to write a review.
+Psychological Outcome;Mastery;Feeling that one's behavior is efeective or one's be able of producing desirable outcomes.
+Psychological Outcome;Purpose;Feeling that reviewing is meaningful, worthwhile, or connected to a larger goal.
+Psychological Outcome;Autonomous motivation;Self-determined motivation to review because the activity is personally valued, meaningful, or internally endorsed.
+Psychological Outcome;Perceived competence;Feeling capable, skilled, or competent in writing reviews or evaluating products/services.
+Psychological Outcome;Extrinsic Motivation;Motivation to review driven by external rewards, incentives, benefits, recognition, or outcomes.
+Psychological Outcome;Controlled motivation;Motivation to review due to pressure, obligation, external control, or avoidance of negative consequences.
+Psychological Outcome;Attitude towards the company and behavior/ Image of the company;Evaluation of the company, its behavior, or its image as shaped by incentivization or review practices.
+Psychological Outcome;Satisfaction with and Quality perception of brand/company;Satisfaction with, or perceived quality of, the brand or company.
+Psychological Outcome;Product involvement;Personal relevance, interest, or involvement with the reviewed product.
+Psychological Outcome;Psychological costs;Mental burden, resistance, discomfort, or perceived psychological cost associated with (incentivized) reviewing. For example, feeling manipulated, being bought or bribed by the company.
+Behavioral Outcome;Review quantity;(Likelihood of) Review contribution, including review posting intention, actual review posting, review volume, contribution/ use behavior, willingness to share WOM, or number of reviews.
+Behavioral Outcome;Review valence/ review text sentiment/ emotional tone;Positivity, negativity, star rating, sentiment, emotional tone, or affective polarity of the review content.
+Behavioral Outcome;Review quality;Overall review quality (length, readability, objectivity, …). This code is used when quality is measured broadly or through one or more quality features (see list below).
+Behavioral Outcome;Product sales;Product or service demand outcomes, including purchase decisions, sales volume, number of bidders, bookings, or consumer choice.
+Behavioral Outcome;Unethical/ illegal behavior (Posting fake reviews);Manipulative, deceptive, unethical, or illegal review behavior, especially posting fake reviews or engaging in review fraud.
+Behavioral Outcome;Spill-over effect;"Effects of incentivization that extend beyond the directly incentivized review/ reviewer, including effects on ""organic"" reviews/reviewers."
+Behavioral Outcome;Review Timing or Speed of feedback;Timing, delay, or speed of review submission or feedback after purchase/use.
+Behavioral Outcome;Price;Effects on product/service price, price decisions, willingness to pay....
+Behavioral Outcome;Information search;Consumer search behavior, search effort, or use of additional information before decision-making.
+Review Quality Feature;Review Length and Information Volume;Amount of review content, including number of words, characters, sentences, information units, or volume of information.
+Review Quality Feature;Helpfulness;Perceived or voted usefulness/helpfulness of a review.
+Review Quality Feature;Readability;Ease with which the review can be read and understood, including linguistic clarity or readability scores.
+Review Quality Feature;Details and Coherence;Degree to which the review contains specific details, explanations, logically connected arguments, or coherent information.
+Review Quality Feature;Pictures;Inclusion, presence, number, or effect of visual content such as photos or images in reviews.
+Review Quality Feature;Objectivity;Degree to which the review is balanced, factual, evidence-based, or not overly subjective/emotional.
+Review Quality Feature;Subjectivity;Degree to which the review expresses personal opinions, emotions, subjective evaluations, or personal experiences.
+Review Quality Feature;Topic Diversity and Relevance;Breadth, variety, and relevance of topics, attributes, or aspects covered in the review.
+Review Quality Feature;Lexical complexity, richness, and density;Linguistic sophistication of the review, including vocabulary diversity, lexical richness, complexity, or information density.
+Review Quality Feature;Diagnosticity;The perceived ability of a review to provide relevant, informative, and decision-useful information that helps consumers evaluate a product or reduce uncertainty.
