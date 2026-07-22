@@ -4,6 +4,15 @@ This repository contains the supplemental materials accompanying the manuscript 
 
 ## Repository Contents
 
+## Literature Search Process
+
+The systematic literature search and study selection process is illustrated below. The final set of included studies corresponds to the dataset provided in [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv).
+
+![Literature search strategy and study selection process](./search_strategy.jpg)
+
+*Figure 1. Study selection process.*
+
+
 ### [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv)
 
 Contains the complete sample of publications (N=147) included in the systematic literature review. For each publication, the dataset reports the search strategy through which the study was identified, bibliographic information (title, authors, publication year), study characteristics (empirical/theoretical), as well as the investigated incentives.
