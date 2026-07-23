@@ -1,18 +1,18 @@
-Conference;Frequency;VHB
-Australasian Conference on Information Systems (ACIS);1;#NV
-Americas' Conference on Information Systems (AMCIS);3;C
-IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM);1;#NV
-Communications in Computer and Information Science;1;#NV
-Conference on Human Factors in Computing Systems;1;#NV
-European Conference on Information System (ECIS);1;A
-Hawaii International Conference on System Sciences (HICSS);2;B
-IEEE International Conference on Blockchain and Cryptocurrency (ICBC);1;#NV
-International Conference on Information Systems (ICIS);5;A
-IEEE International Conference on Artificial Intelligence Testing (AITest);1;#NV
-International Conference on Computer, Information and Telecommunication Systems;1;#NV
-International Conference on Dependable Systems and Their Applications (DSA);1;#NV
-International Conference on Instrumentation and Measurement, Computer, Communication and Control (IMCCC);1;#NV
-International Conference on Service Systems and Service Management (ICSSSM);1;#NV
-Pacific Asia Conference on Information Systems (PACIS);7;C
-Wuhan International Conference on E-Business (WHICEB);2;#NV
-International Conference on Wirtschaftsinformatik (WI);1;B
+"Conference","Frequency","VHB"
+"Australasian Conference on Information Systems (ACIS)","1",""
+"Americas' Conference on Information Systems (AMCIS)","3","C"
+"IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)","1",""
+"Communications in Computer and Information Science","1",""
+"Conference on Human Factors in Computing Systems","1",""
+"European Conference on Information System (ECIS)","1","A"
+"Hawaii International Conference on System Sciences (HICSS)","2","B"
+"IEEE International Conference on Blockchain and Cryptocurrency (ICBC)","1",""
+"International Conference on Information Systems (ICIS)","5","A"
+"IEEE International Conference on Artificial Intelligence Testing (AITest)","1",""
+"International Conference on Computer, Information and Telecommunication Systems","1",""
+"International Conference on Dependable Systems and Their Applications (DSA)","1",""
+"International Conference on Instrumentation and Measurement, Computer, Communication and Control (IMCCC)","1",""
+"International Conference on Service Systems and Service Management (ICSSSM)","1",""
+"Pacific Asia Conference on Information Systems (PACIS)","7","C"
+"Wuhan International Conference on E-Business (WHICEB)","2",""
+"International Conference on Wirtschaftsinformatik (WI)","1","B"
