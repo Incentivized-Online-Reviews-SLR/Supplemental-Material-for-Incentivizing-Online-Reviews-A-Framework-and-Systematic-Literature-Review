@@ -132,12 +132,12 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
                              │
               ┌──────────────┴──────────────┐
               ▼                             ▼
-  psychological_outcome_            coding_behavioral_
-      categories.csv                    outcome.csv
+  coding_psychological_           coding_behavioral_
+     outcome.csv                    outcome.csv
               │
               ▼
-    coding_psychological_
-         outcome.csv
+     psychological_
+   outcome_categories.csv
 ```
 
 ## Workflow
