@@ -18,6 +18,7 @@ The systematic literature search and study selection process is illustrated belo
 Contains the complete sample of publications (N=147) included in the systematic literature review. For each publication, the dataset reports the search strategy through which the study was identified, bibliographic information (title, authors, publication year), study characteristics (empirical/theoretical), as well as the investigated incentives.
 
 ---
+## Literature Coding Process
 
 ### [`coding_scheme.csv`](./coding_scheme.csv)
 
@@ -56,6 +57,7 @@ Contains the coding for behavioral outcomes identified in the reviewed literatur
 | **o** | No statistically significant effect on the behavioral outcome is reported. |
 | **NA** | No relationship is examined or reported. |
 ---
+## Literature Outlet
 
 ### [`outlets_journals.csv`](./outlets_journals.csv)
 
