@@ -48,7 +48,7 @@ Behavioral Outcome;Review valence/ review text sentiment/ emotional tone;Positiv
 Behavioral Outcome;Review quality;Overall review quality (length, readability, objectivity, …). This code is used when quality is measured broadly or through one or more quality features (see list below).
 Behavioral Outcome;Product sales;Product or service demand outcomes, including purchase decisions, sales volume, number of bidders, bookings, or consumer choice.
 Behavioral Outcome;Unethical/ illegal behavior (Posting fake reviews);Manipulative, deceptive, unethical, or illegal review behavior, especially posting fake reviews or engaging in review fraud.
-Behavioral Outcome;Spill-over effect;"Effects of incentivization that extend beyond the directly incentivized review/ reviewer, including effects on ""organic"" reviews/reviewers."
+Behavioral Outcome;Spill-over effect;Effects of incentivization that extend beyond the directly incentivized review/ reviewer, including effects on organic reviews/reviewers.
 Behavioral Outcome;Review Timing or Speed of feedback;Timing, delay, or speed of review submission or feedback after purchase/use.
 Behavioral Outcome;Price;Effects on product/service price, price decisions, willingness to pay....
 Behavioral Outcome;Information search;Consumer search behavior, search effort, or use of additional information before decision-making.
