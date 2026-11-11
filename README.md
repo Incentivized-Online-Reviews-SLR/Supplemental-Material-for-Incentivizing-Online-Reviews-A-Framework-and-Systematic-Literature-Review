@@ -26,7 +26,7 @@ For each record, the file provides bibliographic information, source database, p
 
 The dataset complements the final sample documentation available in this repository.
 
-
+## Final Sample
 ### [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv)
 
 Contains the complete sample of publications (N=147) included in the systematic literature review. For each publication, the dataset reports the search strategy through which the study was identified, bibliographic information (title, authors, publication year), study characteristics (empirical/theoretical), as well as the investigated incentives.
