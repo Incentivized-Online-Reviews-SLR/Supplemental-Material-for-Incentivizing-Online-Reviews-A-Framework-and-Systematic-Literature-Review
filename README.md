@@ -18,9 +18,9 @@ The file [stored_literature_keyword_search.csv](stored_literature_keyword_search
 
 The dataset documents the subsequent screening process:
 
-- **21 duplicate records** identified across databases.
-- **66 publications excluded** during full-text screening.
-- **95 publications included** in the final sample through the keyword search.
+- **21 duplicate records** identified across databases (duplicate Tag).
+- **66 publications excluded** during full-text screening (Not important Tag).
+- **95 publications included** in the final sample through the keyword search (Relevant Tag).
 
 For each record, the file provides bibliographic information, source database, publication link, and screening classification.
 
