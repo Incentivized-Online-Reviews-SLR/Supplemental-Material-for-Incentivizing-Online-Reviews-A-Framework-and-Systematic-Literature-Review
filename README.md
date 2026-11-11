@@ -141,6 +141,9 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
                     search_strategy.png
                              │
                              ▼
+              stored_literature_keyword_search.csv
+                             │
+                             ▼
              systematic_review_complete_sample.csv
                              │
                              ▼
@@ -161,11 +164,12 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
 The files are intended to be used together:
 
 1. **`search_strategy.png`** illustrates the systematic literature search and study selection process that resulted in the final study sample.
-2. **`systematic_review_complete_sample.csv`** documents the complete set of studies included in the review.
-3. **`coding_scheme.csv`** specifies the coding framework applied to all included studies.
-4. **`coding_psychological_outcome.csv`** contains the detailed coding for individual psychological outcome constructs.
-5. **`coding_behavioral_outcome.csv`** contains the detailed coding for behavioral outcome constructs.
-6. **`psychological_outcome_categories.csv`** provides the conceptual classification of psychological outcomes into higher-level categories.
-7. **`outlets_journals.csv`** and **`outlets_conferences.csv`** provide journal and conference ranking information
+2. **`stored_literature_keyword_search.csv`** documents the 182 records retained after title and abstract screening of the database searches (Scopus, AISeL, and IEEE Xplore). It includes bibliographic information and subsequent screening decisions, identifying 21 duplicates, 66 excluded publications, and 95 publications included in the final sample through the keyword search.
+3. **`systematic_review_complete_sample.csv`** documents the complete set of studies included in the review.
+4. **`coding_scheme.csv`** specifies the coding framework applied to all included studies.
+5. **`coding_psychological_outcome.csv`** contains the detailed coding for individual psychological outcome constructs.
+6. **`coding_behavioral_outcome.csv`** contains the detailed coding for behavioral outcome constructs.
+7. **`psychological_outcome_categories.csv`** provides the conceptual classification of psychological outcomes into higher-level categories.
+8. **`outlets_journals.csv`** and **`outlets_conferences.csv`** provide journal and conference ranking information
 
 Together, these materials provide transparent documentation of the selected studies and coding procedures and facilitate transparency and reuse of the systematic literature review.
