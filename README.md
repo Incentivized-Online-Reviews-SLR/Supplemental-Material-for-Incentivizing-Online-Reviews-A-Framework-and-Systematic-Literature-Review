@@ -12,6 +12,22 @@ The systematic literature search and study selection process is illustrated belo
 
 *Figure 1. Study selection process.*
 
+## Literature Screening Records
+
+To enhance the transparency and reproducibility of our systematic literature review, we provide the records retained after title and abstract screening of the database search results.
+
+The file [stored_literature_keyword_search.csv](stored_literature_keyword_search.csv) contains bibliographic information and screening decisions for 182 records retrieved from Scopus (n = 139), AISeL (n = 23), and IEEE Xplore (n = 20).
+
+The dataset documents the subsequent screening process:
+
+- **21 duplicate records** identified across databases.
+- **66 publications excluded** during full-text screening.
+- **95 publications included** in the final sample through the keyword search.
+
+For each record, the file provides bibliographic information, source database, publication link, and screening classification.
+
+The dataset complements the final sample documentation available in this repository.
+
 
 ### [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv)
 
