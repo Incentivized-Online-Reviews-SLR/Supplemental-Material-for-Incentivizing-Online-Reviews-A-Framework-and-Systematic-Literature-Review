@@ -176,10 +176,6 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
    outcome_categories.csv
 ```
 
-## Workflow
-
-The files are intended to be used together:
-
 
 ## Workflow
 
