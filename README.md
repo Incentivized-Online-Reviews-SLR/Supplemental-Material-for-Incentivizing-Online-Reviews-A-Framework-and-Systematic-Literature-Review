@@ -14,7 +14,7 @@ The systematic literature search and study selection process is illustrated belo
 
 To enhance the transparency and reproducibility of our systematic literature review, we provide the records retained after title and abstract screening of the database search results.
 
-The file [stored_literature_keyword_search.csv](stored_literature_keyword_search.csv) contains bibliographic information and screening decisions for 182 records retrieved from Scopus (n = 139), AISeL (n = 23), and IEEE Xplore (n = 20).
+The file **[stored_literature_keyword_search.csv](stored_literature_keyword_search.csv)** contains bibliographic information and screening decisions for 182 records retrieved from Scopus (n = 139), AISeL (n = 23), and IEEE Xplore (n = 20).
 
 The dataset documents the subsequent screening process:
 
@@ -29,8 +29,8 @@ For each record, the file provides bibliographic information, source database, p
 
 To complement the keyword search, backward and forward searches were conducted to identify additional relevant publications. The corresponding records are documented in two separate files:
 
-- **[Backward Search Records](stored_literature_backward_search.csv)**: Contains the 29 additional publications identified through backward searching.
-- **[Forward Search Records](stored_literature_forward_search.csv)**: Contains the 22 additional publications identified through forward searching.
+- **[stored_literature_backward_search](stored_literature_backward_search.csv)**: Contains the 29 additional publications identified through backward searching.
+- **[stored_literature_forward_search](stored_literature_forward_search.csv)**: Contains the 22 additional publications identified through forward searching.
 
 Both files provide bibliographic information, including publication year, authors, title, outlet, and URL, as well as the following fields:
 
