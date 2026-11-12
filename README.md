@@ -24,7 +24,22 @@ The dataset documents the subsequent screening process:
 
 For each record, the file provides bibliographic information, source database, publication link, and screening classification.
 
-The dataset complements the final sample documentation available in this repository.
+
+## Backward and Forward Search Records
+
+To complement the keyword search, backward and forward searches were conducted to identify additional relevant publications. The corresponding records are documented in two separate files:
+
+- **[Backward Search Records](stored_literature_backward_search.csv)**: Contains the 29 additional publications identified through backward searching.
+- **[Forward Search Records](stored_literature_forward_search.csv)**: Contains the 22 additional publications identified through forward searching.
+
+Both files provide bibliographic information, including publication year, authors, title, outlet, and URL, as well as the following fields:
+
+- **`Record ID`**: A unique identifier assigned to each publication, enabling cross-referencing between the keyword, backward, and forward search files.
+- **`Date Added`**: The date on which the publication was added to the Zotero reference management library. In most cases, this corresponds to the date of identification during the literature search. However, some publications had already been stored in Zotero before the systematic search and therefore have earlier dates.
+- **`Seed Publication ID`**: Refers to the Record ID of the publication used as the starting point for identifying an additional publication through backward or forward searching. In backward searching, the seed publication's reference list was examined, leading to the identification of the corresponding publication. In forward searching, publications citing the seed publication were examined, leading to the identification of the corresponding publication. The IDs link records across the keyword, backward, and forward search files, allowing the search pathways to be traced.
+
+Together with the keyword search records, these files document the identification and selection of the 147 publications included in the final sample.
+
 
 ## Final Sample
 ### [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv)
@@ -142,6 +157,8 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
                              │
                              ▼
               stored_literature_keyword_search.csv
+              stored_literature_backward_search.csv
+              stored_literature_forward_search.csv
                              │
                              ▼
              systematic_review_complete_sample.csv
@@ -163,13 +180,20 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
 
 The files are intended to be used together:
 
-1. **`search_strategy.png`** illustrates the systematic literature search and study selection process that resulted in the final study sample.
-2. **`stored_literature_keyword_search.csv`** documents the 182 records retained after title and abstract screening of the database searches (Scopus, AISeL, and IEEE Xplore). It includes bibliographic information and subsequent screening decisions, identifying 21 duplicates, 66 excluded publications, and 95 publications included in the final sample through the keyword search.
-3. **`systematic_review_complete_sample.csv`** documents the complete set of studies included in the review.
-4. **`coding_scheme.csv`** specifies the coding framework applied to all included studies.
-5. **`coding_psychological_outcome.csv`** contains the detailed coding for individual psychological outcome constructs.
-6. **`coding_behavioral_outcome.csv`** contains the detailed coding for behavioral outcome constructs.
-7. **`psychological_outcome_categories.csv`** provides the conceptual classification of psychological outcomes into higher-level categories.
-8. **`outlets_journals.csv`** and **`outlets_conferences.csv`** provide journal and conference ranking information
+
+## Workflow
+
+The files are intended to be used together:
+
+1. **`search_strategy.png`** illustrates the systematic literature search and study selection process that resulted in the final sample of 147 publications.
+2. **[`stored_literature_keyword_search.csv`](stored_literature_keyword_search.csv)** documents the 182 records retained after title and abstract screening, including their relevance and duplicate classifications.
+3. **[`stored_literature_backward_search.csv`](stored_literature_backward_search.csv)** documents the 29 additional publications identified through backward searching and their associated seed publication IDs.
+4. **[`stored_literature_forward_search.csv`](stored_literature_forward_search.csv)** documents the 22 additional publications identified through forward searching and their associated seed publication IDs.
+5. **[`systematic_review_complete_sample.csv`](systematic_review_complete_sample.csv)** contains the final set of 147 publications included in the systematic literature review.
+6. **[`coding_scheme.csv`](coding_scheme.csv)** specifies the coding framework applied to all included publications.
+7. **[`coding_psychological_outcome.csv`](coding_psychological_outcome.csv)** contains the detailed coding of individual psychological outcome constructs.
+8. **[`coding_behavioral_outcome.csv`](coding_behavioral_outcome.csv)** contains the detailed coding of behavioral outcome constructs.
+9. **[`psychological_outcome_categories.csv`](psychological_outcome_categories.csv)** provides the conceptual classification of psychological outcomes into higher-level categories.
+10. **[`outlets_journals.csv`](outlets_journals.csv)** and **[`outlets_conferences.csv`](outlets_conferences.csv)** provide journal and conference ranking information.
 
 Together, these materials provide transparent documentation of the selected studies and coding procedures and facilitate transparency and reuse of the systematic literature review.
