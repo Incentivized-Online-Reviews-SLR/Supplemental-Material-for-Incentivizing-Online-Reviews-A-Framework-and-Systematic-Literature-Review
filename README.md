@@ -22,7 +22,7 @@ The AISeL search involved two search configurations, yielding 42 and 1,644 recor
 
 *Table 1. Overview of Keyword Search and Screening Results.*
 
-Following full-text screening, 96 publications were retained from the keyword search (Scopus = 88, AISeL = 7, IEEE Xplore = 1). An additional 29 publications were included through backward searching and 22 through forward searching, resulting in a final sample of **147 publications**.
+Following full-text screening, 96 publications were retained from the keyword search (Scopus = 89, AISeL = 7, IEEE Xplore = 1). An additional 29 publications were included through backward searching and 22 through forward searching, resulting in a final sample of **148 publications**.
 
 
 ## Literature Screening Records
