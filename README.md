@@ -200,7 +200,7 @@ The files are intended to be used together:
 2. **[`stored_literature_keyword_search.csv`](stored_literature_keyword_search.csv)** documents the 182 records retained after title and abstract screening, including their relevance and duplicate classifications.
 3. **[`stored_literature_backward_search.csv`](stored_literature_backward_search.csv)** documents the 29 additional publications identified through backward searching and their associated seed publication IDs.
 4. **[`stored_literature_forward_search.csv`](stored_literature_forward_search.csv)** documents the 22 additional publications identified through forward searching and their associated seed publication IDs.
-5. **[`systematic_review_complete_sample.csv`](systematic_review_complete_sample.csv)** contains the final set of 147 publications included in the systematic literature review.
+5. **[`systematic_review_complete_sample.csv`](systematic_review_complete_sample.csv)** contains the final set of 148 publications included in the systematic literature review.
 6. **[`coding_scheme.csv`](coding_scheme.csv)** specifies the coding framework applied to all included publications.
 7. **[`coding_psychological_outcome.csv`](coding_psychological_outcome.csv)** contains the detailed coding of individual psychological outcome constructs.
 8. **[`coding_behavioral_outcome.csv`](coding_behavioral_outcome.csv)** contains the detailed coding of behavioral outcome constructs.
