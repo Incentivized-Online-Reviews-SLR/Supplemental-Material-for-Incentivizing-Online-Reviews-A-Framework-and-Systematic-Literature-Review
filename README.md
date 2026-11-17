@@ -34,8 +34,8 @@ The file **[stored_literature_keyword_search.csv](stored_literature_keyword_sear
 The dataset documents the subsequent screening process:
 
 - **21 duplicate records** identified across databases (duplicate Tag).
-- **66 publications excluded** during full-text screening (Not important Tag).
-- **95 publications included** in the final sample through the keyword search (Relevant Tag).
+- **64 publications excluded** during full-text screening (Not important Tag).
+- **97 publications included** in the final sample through the keyword search (Relevant Tag).
 
 For each record, the file provides bibliographic information, source database, publication link, and screening classification.
 
@@ -53,13 +53,13 @@ Both files provide bibliographic information, including publication year, author
 - **`Date Added`**: The date on which the publication was added to the Zotero reference management library. In most cases, this corresponds to the date of identification during the literature search. However, some publications had already been stored in Zotero before the systematic search and therefore have earlier dates.
 - **`Seed Publication ID`**: Refers to the Record ID of the publication used as the starting point for identifying an additional publication through backward or forward searching. In backward searching, the seed publication's reference list was examined, leading to the identification of the corresponding publication. In forward searching, publications citing the seed publication were examined, leading to the identification of the corresponding publication. The IDs link records across the keyword, backward, and forward search files, allowing the search pathways to be traced.
 
-Together with the keyword search records, these files document the identification and selection of the 147 publications included in the final sample.
+Together with the keyword search records, these files document the identification and selection of the 148 publications included in the final sample.
 
 
 ## Final Sample
 ### [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv)
 
-Contains the complete sample of publications (N=147) included in the systematic literature review. For each publication, the dataset reports the search strategy through which the study was identified, bibliographic information (title, authors, publication year), study characteristics (empirical/theoretical), as well as the investigated incentives.
+Contains the complete sample of publications (N=148) included in the systematic literature review. For each publication, the dataset reports the search strategy through which the study was identified, bibliographic information (title, authors, publication year), study characteristics (empirical/theoretical), as well as the investigated incentives.
 
 ---
 ## Literature Coding Process
