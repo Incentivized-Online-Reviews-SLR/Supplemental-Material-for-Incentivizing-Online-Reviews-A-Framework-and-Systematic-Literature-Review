@@ -15,10 +15,10 @@ The AISeL search involved two search configurations, yielding 42 and 1,644 recor
 
 | Database | Records Retrieved | Records Stored | Duplicates | Unique Records | Included After Full-Text Screening |
 |---|---:|---:|---:|---:|---:|
-| Scopus | 3,103 | 139 | 0 | 139 | 88 |
+| Scopus | 3,103 | 139 | 0 | 139 | 89 |
 | AISeL | 1,681 | 23 | 10 | 13 | 7 |
 | IEEE Xplore | 723 | 20 | 11 | 9 | 1 |
-| **Total** | **5,507** | **182** | **21** | **161** | **96** |
+| **Total** | **5,507** | **182** | **21** | **161** | **97** |
 
 *Table 1. Overview of Keyword Search and Screening Results.*
 
