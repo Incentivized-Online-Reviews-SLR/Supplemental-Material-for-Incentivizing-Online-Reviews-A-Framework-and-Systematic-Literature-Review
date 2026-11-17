@@ -118,7 +118,7 @@ Contains all journals represented in the final study sample. For each journal, t
 
 | Ranking | Frequency |
 |---------|----------:|
-| Q1 | 98 |
+| Q1 | 99 |
 | Q2 | 9 |
 | Q3 | 4 |
 | Q4 | 1 |
@@ -138,7 +138,7 @@ Contains all journals represented in the final study sample. For each journal, t
 
 | Ranking | Frequency |
 |---------|----------:|
-| 1 | 17 |
+| 1 | 18 |
 | 2 | 21 |
 | 3 | 30 |
 | 4 | 9 |
