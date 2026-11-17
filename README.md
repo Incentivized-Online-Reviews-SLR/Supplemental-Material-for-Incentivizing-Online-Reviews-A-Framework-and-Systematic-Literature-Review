@@ -196,7 +196,7 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
 
 The files are intended to be used together:
 
-1. **`search_strategy.png`** illustrates the systematic literature search and study selection process that resulted in the final sample of 147 publications.
+1. **`search_strategy.png`** illustrates the systematic literature search and study selection process that resulted in the final sample of 148 publications.
 2. **[`stored_literature_keyword_search.csv`](stored_literature_keyword_search.csv)** documents the 182 records retained after title and abstract screening, including their relevance and duplicate classifications.
 3. **[`stored_literature_backward_search.csv`](stored_literature_backward_search.csv)** documents the 29 additional publications identified through backward searching and their associated seed publication IDs.
 4. **[`stored_literature_forward_search.csv`](stored_literature_forward_search.csv)** documents the 22 additional publications identified through forward searching and their associated seed publication IDs.
