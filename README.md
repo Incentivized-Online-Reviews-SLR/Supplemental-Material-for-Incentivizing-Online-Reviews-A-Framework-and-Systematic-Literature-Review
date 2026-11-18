@@ -39,6 +39,19 @@ The dataset documents the subsequent screening process:
 
 For each record, the file provides bibliographic information, source database, publication link, and screening classification.
 
+The file [**removed_papers.csv**](removed_literature.csv) provides detailed documentation of the **64 publications excluded during full-text screening**. For each publication, it specifies the exclusion category and an additional explanation supporting the screening decision.
+
+The exclusions are classified into five categories:
+
+| Exclusion Reason | Frequency |
+|---|---:|
+| No relevant examination of online review incentivization | 46 |
+| No direct relevance to online reviews | 15 |
+| Insufficient methodological and reporting clarity | 1 |
+| Insufficient examination of incentivization outcomes | 1 |
+| No empirical findings reported | 1 |
+| **Total** | **64** |
+
 
 ## Backward and Forward Search Records
 
@@ -172,6 +185,7 @@ Conferences that are not covered by the VHB ranking are reported as **Not listed
                              │
                              ▼
               stored_literature_keyword_search.csv
+              removed_literature.csv
               stored_literature_backward_search.csv
               stored_literature_forward_search.csv
                              │
@@ -198,13 +212,14 @@ The files are intended to be used together:
 
 1. **`search_strategy.png`** illustrates the systematic literature search and study selection process that resulted in the final sample of 148 publications.
 2. **[`stored_literature_keyword_search.csv`](stored_literature_keyword_search.csv)** documents the 182 records retained after title and abstract screening, including their relevance and duplicate classifications.
-3. **[`stored_literature_backward_search.csv`](stored_literature_backward_search.csv)** documents the 29 additional publications identified through backward searching and their associated seed publication IDs.
-4. **[`stored_literature_forward_search.csv`](stored_literature_forward_search.csv)** documents the 22 additional publications identified through forward searching and their associated seed publication IDs.
-5. **[`systematic_review_complete_sample.csv`](systematic_review_complete_sample.csv)** contains the final set of 148 publications included in the systematic literature review.
-6. **[`coding_scheme.csv`](coding_scheme.csv)** specifies the coding framework applied to all included publications.
-7. **[`coding_psychological_outcome.csv`](coding_psychological_outcome.csv)** contains the detailed coding of individual psychological outcome constructs.
-8. **[`coding_behavioral_outcome.csv`](coding_behavioral_outcome.csv)** contains the detailed coding of behavioral outcome constructs.
-9. **[`psychological_outcome_categories.csv`](psychological_outcome_categories.csv)** provides the conceptual classification of psychological outcomes into higher-level categories.
-10. **[`outlets_journals.csv`](outlets_journals.csv)** and **[`outlets_conferences.csv`](outlets_conferences.csv)** provide journal and conference ranking information.
+3. **[`stored_literature_removed_papers.csv`](removed_literature.csv)** documents the 64 publications excluded during full-text screening, including their exclusion categories and individual explanations.
+4. **[`stored_literature_backward_search.csv`](stored_literature_backward_search.csv)** documents the 29 additional publications identified through backward searching and their associated seed publication IDs.
+5. **[`stored_literature_forward_search.csv`](stored_literature_forward_search.csv)** documents the 22 additional publications identified through forward searching and their associated seed publication IDs.
+6. **[`systematic_review_complete_sample.csv`](systematic_review_complete_sample.csv)** contains the final set of 148 publications included in the systematic literature review.
+7. **[`coding_scheme.csv`](coding_scheme.csv)** specifies the coding framework applied to all included publications.
+8. **[`coding_psychological_outcome.csv`](coding_psychological_outcome.csv)** contains the detailed coding of individual psychological outcome constructs.
+9. **[`coding_behavioral_outcome.csv`](coding_behavioral_outcome.csv)** contains the detailed coding of behavioral outcome constructs.
+10. **[`psychological_outcome_categories.csv`](psychological_outcome_categories.csv)** provides the conceptual classification of psychological outcomes into higher-level categories.
+11. **[`outlets_journals.csv`](outlets_journals.csv)** and **[`outlets_conferences.csv`](outlets_conferences.csv)** provide journal and conference ranking information.
 
 Together, these materials provide transparent documentation of the selected studies and coding procedures and facilitate transparency and reuse of the systematic literature review.
