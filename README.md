@@ -49,7 +49,7 @@ The exclusions are classified into five categories:
 | No direct relevance to online reviews | 15 |
 | Insufficient methodological and reporting clarity | 1 |
 | Insufficient examination of incentivization outcomes | 1 |
-| No empirical findings reported | 1 |
+| Research-in-progress without reported empirical findings | 1 |
 | **Total** | **64** |
 
 
