@@ -6,7 +6,7 @@ This repository contains the supplemental materials accompanying the manuscript 
 
 The systematic literature search and study selection process is illustrated below. The final set of included studies corresponds to the dataset provided in [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv).
 
-
+![Literature search strategy and study selection process](./search_strategy.jpg)
 
 *Figure 1. Study selection process.*
 
