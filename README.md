@@ -13,6 +13,8 @@ The systematic literature search and study selection process is illustrated belo
 Table 1 provides an overview of the keyword search and screening results across the three databases. Following full-text screening, 97 publications were retained (Scopus = 89, AISeL = 7, IEEE Xplore = 1). Together with 29 additional publications identified through backward searching and 22 through forward searching, the final sample comprises 148 publications. Detailed records of the keyword, backward, and forward searches are provided in the corresponding CSV files.
 The AISeL search involved two search configurations, yielding 42 and 1,644 records, respectively. After accounting for five overlapping records, 1,681 unique search results were identified within AISeL.
 
+#### Search String: (online OR platform) AND (incentiv* OR paid OR reward*) AND (review* OR opinion*)
+
 | Database | Records Retrieved | Records Stored | Duplicates | Unique Records | Included After Full-Text Screening |
 |---|---:|---:|---:|---:|---:|
 | Scopus | 3,103 | 139 | 0 | 139 | 89 |
