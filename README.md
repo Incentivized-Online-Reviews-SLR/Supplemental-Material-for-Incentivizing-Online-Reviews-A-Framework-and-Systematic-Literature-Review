@@ -86,39 +86,31 @@ Contains the complete coding scheme applied during the systematic literature rev
 This coding scheme served as the basis for coding the investigated outcomes in every study contained in [`systematic_review_complete_sample.csv`](./systematic_review_complete_sample.csv).
 
 ---
+### Effect-Direction Coding
 
-### [`coding_psychological_outcome.csv`](./coding_psychological_outcome.csv)
+The same effect-direction coding scheme was applied to both psychological and behavioral outcomes. The following table describes all possible coding options, regardless of whether they occurred in the final sample.
 
-Contains the coding for psychological outcomes identified in the reviewed literature. The effect-direction codes indicate how an incentive or incentivizing strategy is associated with the respective psychological outcome.
 | Effect Direction | Description |
 |------------------|-------------|
-| **+** | The incentivizing strategy or incentive has a positive effect on the psychological outcome (i.e., increases or strengthens the outcome). |
-| **−** | The incentivizing strategy or incentive has a negative effect on the psychological outcome (i.e., decreases or weakens the outcome). |
+| **+** | The incentivizing strategy or incentive has a positive effect on the outcome (i.e., increases or strengthens the outcome). |
+| **−** | The incentivizing strategy or incentive has a negative effect on the outcome (i.e., decreases or weakens the outcome). |
 | **+/−** | The study reports both positive and negative effects, for example, depending on the incentive types. |
 | **o** | No statistically significant effect on the psychological outcome is reported. |
 | **+/o** | The study reports both positive and non-significant effects, for example, depending on the incentive types.|
 | **NA** | Not applicable; no relationship is examined or reported. |
 
----
+
+### [`coding_psychological_outcome.csv`](./coding_psychological_outcome.csv)
+
+Contains the coding for psychological outcomes identified in the reviewed literature. The effect-direction codes indicate how an incentive or incentivizing strategy is associated with the respective psychological outcome.
 
 ### [`psychological_outcome_categories.csv`](./psychological_outcome_categories.csv)
 
 Psychological outcomes were grouped according to their dominant psychological function. The file groups individual psychological outcome constructs into seven broader conceptual categories (e.g., cognitive and belief-based responses, affective responses, normative and moral evaluations, and personal motivational processes) and provides a definition for each category.
 
----
 ### [`coding_behavioral_outcome.csv`](./coding_behavioral_outcome.csv)
 
 Contains the coding for behavioral outcomes identified in the reviewed literature. The effect-direction codes indicate how an incentive or incentivizing strategy is associated with the respective behavioral outcome.
-| Effect Direction | Description |
-|------------------|-------------|
-| **+** | The incentivizing strategy or incentive has a positive effect on the behavioral outcome (i.e., increases or strengthens the outcome). |
-| **−** | The incentivizing strategy or incentive has a negative effect on the behavioral outcome (i.e., decreases or weakens the outcome). |
-| **+/−** | The study reports both positive and negative effects, for example, depending on the incentive types. |
-| **o** | No statistically significant effect on the behavioral outcome is reported. |
-| **+/o** | The study reports both positive and non-significant effects, for example, depending on the incentive types.|
-| **-/o** | The study reports both negative and non-significant effects, for example, depending on the incentive types.|
-| **NA** | Not applicable; no relationship is examined or reported. |
----
 
 ## Intercoder Reliability
 
