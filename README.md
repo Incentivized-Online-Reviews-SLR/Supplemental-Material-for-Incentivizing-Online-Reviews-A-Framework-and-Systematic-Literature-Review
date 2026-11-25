@@ -88,7 +88,7 @@ This coding scheme served as the basis for coding the investigated outcomes in e
 ---
 ### Effect-Direction Coding
 
-The same effect-direction coding scheme was applied to both psychological and behavioral outcomes. The following table describes all possible coding options, regardless of whether they occurred in the final sample.
+The same effect-direction coding scheme was applied to both psychological and behavioral outcomes. Mixed-effect codes (e.g., "+/-") reflect multiple effect directions reported in the original studies and do not represent compromises between differing coder assessments. The following table describes all possible coding options, regardless of whether they occurred in the final sample.
 
 | Effect Direction | Description |
 |------------------|-------------|
