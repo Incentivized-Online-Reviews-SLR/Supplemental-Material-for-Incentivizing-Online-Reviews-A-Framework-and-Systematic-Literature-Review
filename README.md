@@ -131,7 +131,6 @@ Intercoder reliability was assessed based on 93 articles, excluding the 55 artic
 - **Overall agreement:** Calculated across all article-outcome combinations for which at least one coder identified an outcome. Combinations coded as NA by both coders were excluded. Disagreements concerning both outcome identification and effect direction were included.
 - **Effect-direction agreement:** Calculated only for article-outcome combinations for which both coders identified an outcome. Disagreements concerning outcome identification were excluded.
 - **Krippendorff's alpha:** Calculated at the nominal level, treating each coding option, including mixed-effect codes, as a distinct category.
-- **Coding options:** The possible effect-direction codes and their corresponding definitions are documented separately in this repository (see tables above).
 
 ---
 
