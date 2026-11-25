@@ -95,8 +95,9 @@ The same effect-direction coding scheme was applied to both psychological and be
 | **+** | The incentivizing strategy or incentive has a positive effect on the outcome (i.e., increases or strengthens the outcome). |
 | **−** | The incentivizing strategy or incentive has a negative effect on the outcome (i.e., decreases or weakens the outcome). |
 | **+/−** | The study reports both positive and negative effects, for example, depending on the incentive types. |
-| **o** | No statistically significant effect on the psychological outcome is reported. |
+| **o** | No statistically significant effect on the outcome is reported. |
 | **+/o** | The study reports both positive and non-significant effects, for example, depending on the incentive types.|
+| **−/o** | The study reports both negative and non-significant effects, for example, depending on the incentive types. |
 | **NA** | Not applicable; no relationship is examined or reported. |
 
 
@@ -112,7 +113,7 @@ Psychological outcomes were grouped according to their dominant psychological fu
 
 Contains the coding for behavioral outcomes identified in the reviewed literature. The effect-direction codes indicate how an incentive or incentivizing strategy is associated with the respective behavioral outcome.
 
-## Intercoder Reliability
+### Intercoder Reliability
 
 Intercoder reliability was assessed based on 93 articles, excluding the 55 articles used during the initial calibration phase. The unit of analysis was the article-outcome combination, with each psychological or behavioral outcome coded separately for each article.
 
