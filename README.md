@@ -96,6 +96,8 @@ Contains the coding for psychological outcomes identified in the reviewed litera
 | **−** | The incentivizing strategy or incentive has a negative effect on the psychological outcome (i.e., decreases or weakens the outcome). |
 | **+/−** | The study reports both positive and negative effects, for example, depending on the incentive types. |
 | **o** | No statistically significant effect on the psychological outcome is reported. |
+| **+/o** | The study reports both positive and non-significant effects, for example, depending on the incentive types.|
+| **-/o** | The study reports both negative and non-significant effects, for example, depending on the incentive types.|
 | **NA** | Not applicable; no relationship is examined or reported. |
 
 ---
