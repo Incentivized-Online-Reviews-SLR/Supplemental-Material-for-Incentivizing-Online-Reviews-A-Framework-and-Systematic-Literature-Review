@@ -118,6 +118,29 @@ Contains the coding for behavioral outcomes identified in the reviewed literatur
 | **o** | No statistically significant effect on the behavioral outcome is reported. |
 | **NA** | Not applicable; no relationship is examined or reported. |
 ---
+
+## Intercoder Reliability
+
+Intercoder reliability was assessed based on 93 articles, excluding the 55 articles used during the initial calibration phase. The unit of analysis was the article-outcome combination, with each psychological or behavioral outcome coded separately for each article.
+
+### Reliability Results
+
+| Area | Units excluding double NA | Agreements | Agreement | Nominal alpha | Jointly identified | Direction agreements | Direction agreement | Direction alpha |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Psychological | 63 | 44 | 69.84% | 0.573 | 49 | 44 | 89.80% | 0.842 |
+| Behavioral | 180 | 141 | 78.33% | 0.671 | 150 | 141 | 94.00% | 0.899 |
+| **Combined** | **243** | **185** | **76.13%** | **0.644** | **199** | **185** | **92.96%** | **0.884** |
+
+### Calculation Notes
+
+- **Unit of analysis:** Each article-outcome combination represents one coding unit.
+- **Overall agreement:** Calculated across all article-outcome combinations for which at least one coder identified an outcome. Combinations coded as NA by both coders were excluded. Disagreements concerning both outcome identification and effect direction were included.
+- **Effect-direction agreement:** Calculated only for article-outcome combinations for which both coders identified an outcome. Disagreements concerning outcome identification were excluded.
+- **Krippendorff's alpha:** Calculated at the nominal level, treating each coding option, including mixed-effect codes, as a distinct category.
+- **Coding options:** The possible effect-direction codes and their corresponding definitions are documented separately in this repository (see tables above).
+
+---
+
 ## Literature Outlet
 
 ### [`outlets_journals.csv`](./outlets_journals.csv)
