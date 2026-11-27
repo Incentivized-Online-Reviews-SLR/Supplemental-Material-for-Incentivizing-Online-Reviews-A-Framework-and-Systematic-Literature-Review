@@ -22,7 +22,7 @@ The AISeL search involved two search configurations, yielding 42 and 1,644 recor
 | IEEE Xplore | December 4–5, 2024 | 723 | 20 | 11 | 9 | 1 |
 | **Total** | | **5,507** | **182** | **21** | **161** | **97** |
 
-*Table 1. Overview of Keyword Search and Screening Results.*
+*Table 1. Overview of Keyword Search and Screening Results. The two AISeL searches yielded 42 and 1,644 records, respectively, with five overlapping records. The combined number of unique records was therefore 1,681.*
 
 Following full-text screening, 97 publications were retained from the keyword search (Scopus = 89, AISeL = 7, IEEE Xplore = 1). An additional 29 publications were included through backward searching and 22 through forward searching, resulting in a final sample of **148 publications**.
 
